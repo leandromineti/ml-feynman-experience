@@ -2,4 +2,12 @@
 
 > "What I cannot create, I do not understand" - Feynman.
 
-Building models from scratch.
+### Todo list
+
+- \[ \] Bias-Variance tradeoff
+- \[ \] Expectation maximization
+- \[ \] Linear regression
+- \[ \] Logistic regression
+- \[ \] Decision Tree
+- \[ \] Random Forest
+- \[ \] Perceptron
