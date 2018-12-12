@@ -1,6 +1,6 @@
 # Machine Learning Feynman Experience
 
-<img src="cover.png" alt="drawing" width="100$"/>
+<img src="cover.png" alt="drawing" width="100%"/>
 
 > "What I cannot create, I do not understand" - Feynman.
 
