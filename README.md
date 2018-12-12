@@ -1,6 +1,6 @@
 # Machine Learning Feynman Experience
 
-![](cover.png)
+![](https://media.nature.com/lw685/nature-assets/nature/journal/v504/n7478/images/504030a-i1.jpg)
 
 > "What I cannot create, I do not understand" - Feynman.
 
