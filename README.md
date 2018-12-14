@@ -31,3 +31,7 @@ This is a collection of concepts I tried to implement with Python on [Google Col
 ### Contributions
 
 If you spot a mistake or terrible omission, please feel free to create a new issue.
+
+### Credits
+
+Cover image: Dr. Richard Feynman during the Special Lecture: *the Motion of Planets Around the Sun*. Public Domain. Created: 13 March 1964. 
