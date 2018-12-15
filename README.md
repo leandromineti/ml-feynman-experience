@@ -10,14 +10,15 @@ This is a collection of concepts I tried to implement using Python on [Google Co
 
 ### Work in progress
 
-- Univariate frequentist estimation
+- [Univariate frequentist inference](https://colab.research.google.com/drive/1rFwHTN7OyrjhOKUY3P3d9C0Rz1d6sad7)
 
 ### Todo list
 
 - \[ \] Taylor series application
-- \[ \] Central Limit Theorem and Law of Large Numbers.
+- \[ \] Law of Large Numbers
+- \[ \] Central Limit Theorem
 - \[ \] Bias-Variance tradeoff
-- \[ \] Univariate bayesian estimation
+- \[ \] Univariate bayesian inference
 - \[ \] Expectation maximization
 - \[ \] Linear regression
 - \[ \] Logistic regression
