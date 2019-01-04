@@ -6,11 +6,13 @@
 
 This is a collection of concepts I tried to implement using Python on [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb). If you want to play with the code, feel free to copy the notebook and have fun.
 
+## Notebooks
+
+- [Law of large numbers](https://colab.research.google.com/drive/1OrXdXaz7gloahVuv6aIgXwCgs6C7S_oE)
 - [Markov Chains](https://colab.research.google.com/drive/104V2fY3wQc5m0af_xm7DsRNgpiVPh8x-)
 
 ### Work in progress
 
-- [Law of large numbers](https://colab.research.google.com/drive/1OrXdXaz7gloahVuv6aIgXwCgs6C7S_oE)
 - [Univariate frequentist inference](https://colab.research.google.com/drive/1rFwHTN7OyrjhOKUY3P3d9C0Rz1d6sad7)
 
 ### Todo list
