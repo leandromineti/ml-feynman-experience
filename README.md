@@ -10,13 +10,13 @@ This is a collection of concepts I tried to implement using Python on [Google Co
 
 ### Work in progress
 
+- [Law of large numbers](https://colab.research.google.com/drive/1OrXdXaz7gloahVuv6aIgXwCgs6C7S_oE)
 - [Univariate frequentist inference](https://colab.research.google.com/drive/1rFwHTN7OyrjhOKUY3P3d9C0Rz1d6sad7)
 
 ### Todo list
 
-- \[ \] Taylor series application
-- \[ \] Law of Large Numbers
 - \[ \] Central Limit Theorem
+- \[ \] Taylor series application
 - \[ \] Bias-Variance tradeoff
 - \[ \] Univariate bayesian inference
 - \[ \] Expectation maximization
