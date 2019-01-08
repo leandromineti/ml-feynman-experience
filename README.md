@@ -14,20 +14,23 @@ This is a collection of concepts I tried to implement using only Python, [NumPy]
 
 ### Work in progress
 
-- Single parameter bayesian inference
+- Linear regression
+- Logistic regression
+- Regularized regression
+- Multinomial regression
+- Principal component analysis
+- Linear discriminant analysis
 
 ### Todo list
 
-- \[ \] Central Limit Theorem
+- \[ \] Central limit theorem
+- \[ \] Single parameter bayesian inference
 - \[ \] Expectation maximization
-- \[ \] Principal Component Analysis
-- \[ \] Linear Discriminant Analysis
-- \[ \] Linear regression
-- \[ \] Logistic regression
-- \[ \] Decision Tree
+- \[ \] Decision tree
 - \[ \] Random Forest
+- \[ \] Support vector machine
 - \[ \] Perceptron
-- \[ \] Gradient Boosting Machine
+- \[ \] Gradient boosting machine
 - \[ \] Autoregressive models
 
 ### Contributions
