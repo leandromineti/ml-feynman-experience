@@ -11,12 +11,10 @@ This is a collection of concepts I tried to implement using only [Python](https:
 - [Law of large numbers](https://colab.research.google.com/drive/1OrXdXaz7gloahVuv6aIgXwCgs6C7S_oE)
 - [Markov chains](https://colab.research.google.com/drive/104V2fY3wQc5m0af_xm7DsRNgpiVPh8x-)
 - [Single parameter frequentist inference](https://colab.research.google.com/drive/1rFwHTN7OyrjhOKUY3P3d9C0Rz1d6sad7)
-- Linear regression
-    - [Simple linear regression](https://colab.research.google.com/drive/1NUtc-TWBTe2XVD2xdkjwPD4sc43Ozf0g)
-    - [Multiple linear regression](https://colab.research.google.com/drive/1DMmQ_aVQhRZ7bwIgFFSElCxgTpWCt74f)
-- Generalized linear models
-    - [Logistic regression](https://colab.research.google.com/drive/1tJQfD2IGNBhRbnksOPlC0ugNjGEBKC6i)
-    - [Multinomial regression](https://colab.research.google.com/drive/1Yu-su3Pk5A5iz3CrnXiDub0v_sN2XoyK)
+- [Simple linear regression](https://colab.research.google.com/drive/1NUtc-TWBTe2XVD2xdkjwPD4sc43Ozf0g)
+- [Multiple linear regression](https://colab.research.google.com/drive/1DMmQ_aVQhRZ7bwIgFFSElCxgTpWCt74f)
+- [Logistic regression](https://colab.research.google.com/drive/1tJQfD2IGNBhRbnksOPlC0ugNjGEBKC6i)
+- [Multinomial regression](https://colab.research.google.com/drive/1Yu-su3Pk5A5iz3CrnXiDub0v_sN2XoyK)
 
 ### To do
 
