@@ -37,4 +37,5 @@ If you spot a mistake or terrible omission, please feel free to create a new iss
 ### References
 
 - DeGroot, M. H., & Schervish, M. J. (2012). Probability and statistics. Pearson Education.
+- Friedman, J., Hastie, T., & Tibshirani, R. (2001). The elements of statistical learning (Vol. 1, No. 10). New York, NY, USA:: Springer series in statistics.
 - **Cover image**: Dr. Richard Feynman during the Special Lecture: *the Motion of Planets Around the Sun*. Public Domain. Created: 13 March 1964. 
