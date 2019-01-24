@@ -32,7 +32,7 @@ This is a collection of concepts I tried to implement using only [Python](https:
 
 ### Contributions
 
-If you spot a mistake or terrible omission, please feel free to create a new issue.
+If you spot a mistake or omission, please feel free to create a new issue.
 
 ### References
 
