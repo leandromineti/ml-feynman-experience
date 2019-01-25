@@ -14,7 +14,6 @@ This is a collection of concepts I tried to implement using only [Python](https:
 - [Simple linear regression](https://colab.research.google.com/drive/1NUtc-TWBTe2XVD2xdkjwPD4sc43Ozf0g)
 - [Multiple linear regression](https://colab.research.google.com/drive/1DMmQ_aVQhRZ7bwIgFFSElCxgTpWCt74f)
 - [Logistic regression](https://colab.research.google.com/drive/1tJQfD2IGNBhRbnksOPlC0ugNjGEBKC6i)
-- [Multinomial regression](https://colab.research.google.com/drive/1Yu-su3Pk5A5iz3CrnXiDub0v_sN2XoyK)
 
 ### To do
 
