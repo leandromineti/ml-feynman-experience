@@ -13,7 +13,7 @@ This is a collection of concepts I tried to implement using only [Python](https:
 - [Single parameter frequentist inference](https://colab.research.google.com/drive/1rFwHTN7OyrjhOKUY3P3d9C0Rz1d6sad7)
 - [Simple linear regression](https://colab.research.google.com/drive/1NUtc-TWBTe2XVD2xdkjwPD4sc43Ozf0g)
 - [Multiple linear regression](https://colab.research.google.com/drive/1DMmQ_aVQhRZ7bwIgFFSElCxgTpWCt74f)
-- [Logistic regression](https://colab.research.google.com/drive/1tJQfD2IGNBhRbnksOPlC0ugNjGEBKC6i)
+- [Generalized linear models](https://colab.research.google.com/drive/1tJQfD2IGNBhRbnksOPlC0ugNjGEBKC6i)
 - [Expectation maximization](https://colab.research.google.com/drive/1nqlu2-0uei2Wmck781EHuW-N2JpfSIG7)
 
 ### To do
