@@ -39,6 +39,7 @@ If you spot a mistake or omission, please feel free to create a new issue.
 ### References
 
 - Casella, G., & Berger, R. L. (2002). Statistical inference (Vol. 2). Pacific Grove, CA: Duxbury.
+- de Azevedo Costa, M. (2019). Tópicos em ciência dos dados: Introdução aos modelos paramétricos e seus aplicações utilizando o R. Bonecker.
 - DeGroot, M. H., & Schervish, M. J. (2012). Probability and statistics. Pearson Education.
 - Hastie, T., Tibshirani, R., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (2nd ed). New York, NY: Springer.
 - **Cover image**: Dr. Richard Feynman during the Special Lecture: *the Motion of Planets Around the Sun*. Public Domain. Created: 13 March 1964. 
