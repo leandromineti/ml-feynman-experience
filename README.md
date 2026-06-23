@@ -4,20 +4,20 @@
 
 > "What I cannot create, I do not understand" - Feynman.
 
-This is a collection of concepts I tried to implement using only [Python](https://www.python.org/), [NumPy](http://www.numpy.org/) and [SciPy](https://www.scipy.org/scipylib/index.html) on [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb). If you want to play with the code, feel free to copy the notebook and have fun.
+This is a collection of concepts I tried to implement using only [Python](https://www.python.org/), [NumPy](http://www.numpy.org/) and [SciPy](https://www.scipy.org/scipylib/index.html). The notebooks live in the [`notebooks/`](notebooks/) directory — feel free to clone the repo and have fun.
 
 ## Notebooks
 
-- [Law of large numbers](https://colab.research.google.com/drive/1OrXdXaz7gloahVuv6aIgXwCgs6C7S_oE)
-- [Markov chains](https://colab.research.google.com/drive/104V2fY3wQc5m0af_xm7DsRNgpiVPh8x-)
-- [Single parameter frequentist inference](https://colab.research.google.com/drive/1rFwHTN7OyrjhOKUY3P3d9C0Rz1d6sad7)
-- [Simple linear regression](https://colab.research.google.com/drive/1NUtc-TWBTe2XVD2xdkjwPD4sc43Ozf0g)
-- [Multiple linear regression](https://colab.research.google.com/drive/1DMmQ_aVQhRZ7bwIgFFSElCxgTpWCt74f)
+- [Law of large numbers](notebooks/law-of-large-numbers.ipynb)
+- [Markov chains](notebooks/markov-chains.ipynb)
+- [Single parameter frequentist inference](notebooks/single-parameter-frequentist-inference.ipynb)
+- [Simple linear regression](notebooks/simple-linear-regression.ipynb)
+- [Multiple linear regression](notebooks/multiple-linear-regression.ipynb)
 
 ### Work in progress
 
-- [Generalized linear models](https://colab.research.google.com/drive/1tJQfD2IGNBhRbnksOPlC0ugNjGEBKC6i)
-- [Expectation maximization](https://colab.research.google.com/drive/1nqlu2-0uei2Wmck781EHuW-N2JpfSIG7)
+- Generalized linear models
+- Expectation maximization
 
 ### To do
 
